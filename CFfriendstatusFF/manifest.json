@@ -24,8 +24,7 @@
     ],
     "browser_specific_settings": {
         "gecko": {
-            "id": "your-addon-id@mozilla.org",
-            "strict_min_version": "91.0"
+            "id": "getfriendstatus@shubham.org"
         }
     }
 }
