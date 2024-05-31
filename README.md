@@ -1,5 +1,5 @@
 # Get-Friends-Status
-SAMPLE IMAGES
+**Sample Images**
 
 ![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/c785681b-138e-495e-92c6-a421f7aa5f94)    ![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/c380860d-17b3-404b-896e-5d4762e28bd3)
 
