@@ -1,7 +1,10 @@
+![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/3063be00-9c95-4036-aa8f-e7eaee6b4bcf)<br/>
+**Download the Firefox addon and go to Step No.9 of geeko(FireFox) installation.**<br/>
+https://addons.mozilla.org/en-US/firefox/addon/codeforces-get-friends-status/
 # Get-Friends-Status
 **Sample Images**
 
-![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/c785681b-138e-495e-92c6-a421f7aa5f94)    ![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/c380860d-17b3-404b-896e-5d4762e28bd3)
+![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/c785681b-138e-495e-92c6-a421f7aa5f94)  ![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/c380860d-17b3-404b-896e-5d4762e28bd3)
 
 
 **Never Ask Yourself 'Didn't I Do This Already?' Again!**
@@ -12,7 +15,7 @@ So, this extension help to avoid that mistake.
 
 
 
-**INSTALLATION STEPS (chromimum) ex) Brave, Kiwi, Google Chrome, MS Edge...<br />**
+**INSTALLATION STEPS USING ZIP FILE (chromimum) ex) Brave, Kiwi, Google Chrome, MS Edge...<br />**
 Step 1) Download the zip file "CFfriendstatus.zip".<br />
 Step 2) Open "My Extention" on the respective Browser.<br />
 Step 3) Enable developer mode toggle on the same page (if not already enabled).<br />
@@ -30,7 +33,7 @@ Now, when you solve a problem, you will be treated with the information i.e the 
 <br />
 <br />
 
-**INSTALLATION STEPS (geeko) ex) Firefox**<br />
+**INSTALLATION STEPS USING ZIP FILE (geeko) ex) Firefox**<br />
 Steps are are a bit different from Chromimum.<br />
 Step 1) Download the zip file "CFfriendstatusFF.zip".<br />
 Step 2) Extract the zip in folder "CFfriendstatusFF" ,i.e, (all the extension files should be in CFfrinedstatusFF folder).<br />
