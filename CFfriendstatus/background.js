@@ -14,15 +14,26 @@ chrome.storage.local.get(['userHandle'], function(result) {
 
         // Extract contestId and index from the URL
         const url = window.location.href;
-        const match = url.match(/problemset\/problem\/(\d+)\/([A-Z])/);
+        const match1 = url.match(/problemset\/problem\/(\d+)\/([A-Z])/);
+        const match2 = url.match(/contest\/(\d+)\/problem\/([A-Z])/);
         let contestId = null;
         let index = null;
-
-        if (match) {
-            contestId = match[1];
-            index = match[2];
+        
+        if (match1) {
+            console.log("from match1");
+            contestId = match1[1];
+            index = match1[2];
+            // if(constestId == null) console.log("its null");
+            // console.log(index);
             console.log(`Contest ID: ${contestId}, Index: ${index}`);
-        } else {
+        }
+        else if(match2){
+            console.log("from match2");
+            contestId = match2[1];
+            index = match2[2];
+            console.log(`Contest ID: ${contestId}, Index: ${index}`);
+        }   
+        else {
             console.log("URL does not match the problem pattern.");
             return;
         }
