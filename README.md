@@ -17,11 +17,11 @@ So, this extension help to avoid that mistake.
 
 **INSTALLATION STEPS USING ZIP FILE (chromimum) ex) Brave, Kiwi, Google Chrome, MS Edge...<br />**
 Step 1) Download the zip file "CFfriendstatus.zip".<br />
-Step 2) Open "My Extention" on the respective Browser.<br />
+Step 2) Open "My Extension" on the respective Browser.<br />
 Step 3) Enable developer mode toggle on the same page (if not already enabled).<br />
 Step 4) Click "Load unpacked" option on the same page.<br />
-Step 5) Locate the just downloaded zip file and install the extention.<br />
-Step 6) Now, click on the Get friend's status extention logo on the menu bar, you can pin the extension for the ease of access.<br />
+Step 5) Locate the just downloaded zip file and install the extension.<br />
+Step 6) Now, click on the Get friend's status extension logo on the menu bar, you can pin the extension for the ease of access.<br />
 <br />
 ![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/4d1cc88a-63dd-42f0-8be2-f12f40be147e)<br />
 <br />
@@ -54,7 +54,7 @@ Step 10) Click on the "Get friend's status" extension, you can pin the extension
 ![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/dc07c253-727a-420c-9f31-6541b92b3e7f)<br />
 <br />
 Step 11) Fill the HandleName whose submission status you want to monitor and press submit.<br />
-Step 12) Right Click the extention (In firefox the options comes up only when you are already on the problem page) and select "Always Allow on codeforces.com", after that, it will automatically.<br />
+Step 12) Right Click the extension (In firefox the options comes up only when you are already on the problem page) and select "Always Allow on codeforces.com", after that, it will automatically.<br />
 <br />
 ![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/e150890d-4d4d-461c-b0e8-dc719808922a)
 <br />
