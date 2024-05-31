@@ -21,6 +21,7 @@ Step 5) Locate the just downloaded zip file and install the extention.<br />
 Step 6) Now, click on the Get friend's status extention logo on the menu bar, you can pin the extension for the ease of access.<br />
 ![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/4d1cc88a-63dd-42f0-8be2-f12f40be147e)<br />
 Step 7) Fill the HandleName whose submission status you want to monitor and press submit.<br />
+Step 8) Refresh the page, the Status should be visible now.<br />
 Now, when you solve a problem, you will be treated with the information i.e the other user have solve that problem or not.<br />
 
 <br />
@@ -43,6 +44,7 @@ Step 9) Now go to the Codeforces problemset page and open any problem on that pa
 Step 10) Click on the "Get friend's status" extension, you can pin the extension for the ease of access.<br />
 ![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/dc07c253-727a-420c-9f31-6541b92b3e7f)<br />
 Step 11) Fill the HandleName whose submission status you want to monitor and press submit.<br />
+Step 12) Refresh the page, the Status should be visible now.<br />
 Now, when you solve a problem, you will be treated with the information i.e the other user have solve that problem or not.<br />
 
 
