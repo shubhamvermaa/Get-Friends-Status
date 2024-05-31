@@ -15,7 +15,8 @@
     },
     "content_scripts": [
         {
-            "matches": [ "*://codeforces.com/problemset/problem/*/*" ],
+            "matches": ["*://codeforces.com/problemset/problem/*/*", 
+                        "*://codeforces.com/contest/*" ],
             "js": [ "background.js" ]
         }
     ],
