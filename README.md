@@ -51,7 +51,11 @@ Step 10) Click on the "Get friend's status" extension, you can pin the extension
 ![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/dc07c253-727a-420c-9f31-6541b92b3e7f)<br />
 <br />
 Step 11) Fill the HandleName whose submission status you want to monitor and press submit.<br />
-Step 12) Refresh the page, the Status should be visible now.<br />
+Step 12) Right Click the extention (In firefox the options comes up only when you are already on the problem page) and select "Always Allow on codeforces.com", after that, it will automatically.<br />
+<br />
+![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/e150890d-4d4d-461c-b0e8-dc719808922a)
+<br />
+Step 13) Refresh the page, the Status should be visible now.<br />
 Now, when you solve a problem, you will be treated with the information i.e the other user have solve that problem or not.<br />
 <br />
 <br />
