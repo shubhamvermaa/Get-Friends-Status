@@ -1,9 +1,7 @@
 # Get-Friends-Status
 SAMPLE IMAGES
 
-![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/c785681b-138e-495e-92c6-a421f7aa5f94)
-
-![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/c380860d-17b3-404b-896e-5d4762e28bd3)
+![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/c785681b-138e-495e-92c6-a421f7aa5f94)    ![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/c380860d-17b3-404b-896e-5d4762e28bd3)
 
 
 **Never Ask Yourself 'Didn't I Do This Already?' Again!**
@@ -15,25 +13,16 @@ So, this extension help to avoid that mistake.
 
 
 
-INSTALLATION STEPS (chromimum) ex) Brave, Kiwi, Google Chrome, MS Edge...
-
-step1) Download the zip file "CFfriendstatus.zip".
-
-step2) Open "My Extention" on the respective Browser.
-
-step3) Enable developer mode toggle on the same page (if not already enabled).
-
-step4) Click "Load unpacked" option on the same page.
-
-step5) Locate the just downloaded zip file and install the extention.
-
-step6) Now, click on the Get friend's status extention logo on the menu bar, you can pin the extension for the ease of access.
-
-![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/4d1cc88a-63dd-42f0-8be2-f12f40be147e)
-
-step7) Fill the HandleName whose submission status you want to monitor and press submit.
-
-Now, when you solve a problem, you will be treated with the information i.e the other user have solve that problem or not.
+INSTALLATION STEPS (chromimum) ex) Brave, Kiwi, Google Chrome, MS Edge...<br />
+step1) Download the zip file "CFfriendstatus.zip".<br />
+step2) Open "My Extention" on the respective Browser.<br />
+step3) Enable developer mode toggle on the same page (if not already enabled).<br />
+step4) Click "Load unpacked" option on the same page.<br />
+step5) Locate the just downloaded zip file and install the extention.<br />
+step6) Now, click on the Get friend's status extention logo on the menu bar, you can pin the extension for the ease of access.<br />
+![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/4d1cc88a-63dd-42f0-8be2-f12f40be147e)<br />
+step7) Fill the HandleName whose submission status you want to monitor and press submit.<br />
+Now, when you solve a problem, you will be treated with the information i.e the other user have solve that problem or not.<br />
 
 
 
