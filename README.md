@@ -6,7 +6,7 @@
 
 **Never Ask Yourself 'Didn't I Do This Already?' Again!**
 
-A lot of us have different accounts on codeforces, but maintaining what problem have been solved on which account is very hectic.
+A lot of us have an alternate accounts on codeforces, but maintaining what problem have been solved on the alternate account is very hectic.
 Imagine spending half an hour to solve, only to know, it was already solved by you.
 So, this extension help to avoid that mistake.
 
@@ -49,3 +49,5 @@ Now, when you solve a problem, you will be treated with the information i.e the 
 
 
 
+Special Thanks to **Dhanraj Chaurasia** for the help during the Extension building process.
+Check out his cool extension: https://github.com/dhanrajchaurasia/CF-Get-Problems
