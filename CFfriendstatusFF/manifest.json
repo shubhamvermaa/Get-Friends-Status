@@ -1,7 +1,7 @@
 {
     "name": "Get friend's status",
     "description": "Gets status of whether your friend has done the problem or not.",
-    "version": "1.0",
+    "version": "1.1",
     "manifest_version": 3,
     "icons": {
         "16":  "images/icon_16.png",
