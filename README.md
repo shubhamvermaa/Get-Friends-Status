@@ -46,8 +46,8 @@ Step 10) Click on the "Get friend's status" extension, you can pin the extension
 Step 11) Fill the HandleName whose submission status you want to monitor and press submit.<br />
 Step 12) Refresh the page, the Status should be visible now.<br />
 Now, when you solve a problem, you will be treated with the information i.e the other user have solve that problem or not.<br />
-
-
-
-Special Thanks to **Dhanraj Chaurasia** for the help during the Extension building process.
-Check out his cool extension: https://github.com/dhanrajchaurasia/CF-Get-Problems
+<br />
+<br />
+Special Thanks to **Dhanraj Chaurasia** for the help during the Extension building process.<br/>
+Check out his cool extension: <br/>
+https://github.com/dhanrajchaurasia/CF-Get-Problems
