@@ -1,3 +1,5 @@
+Recent Bug Fixing is Done on : 1/June/2024, updated to version 1.1<br/>
+
 ![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/3063be00-9c95-4036-aa8f-e7eaee6b4bcf)<br/>
 **Download the Firefox addon and go to Step No.9 of geeko(FireFox) installation.**<br/>
 https://addons.mozilla.org/en-US/firefox/addon/codeforces-get-friends-status/
