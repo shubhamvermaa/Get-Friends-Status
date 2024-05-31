@@ -12,6 +12,9 @@ A lot of us have different accounts on codeforces, but maintaining what problem 
 Imagine spending half an hour to solve, only to know, it was already solved by you.
 So, this extension help to avoid that mistake.
 
+
+
+
 INSTALLATION STEPS (chromimum) ex) Brave, Kiwi, Google Chrome, MS Edge...
 
 step1) Download the zip file "CFfriendstatus.zip".
@@ -31,6 +34,10 @@ step6) Now, click on the Get friend's status extention logo on the menu bar, you
 step7) Fill the HandleName whose submission status you want to monitor and press submit.
 
 Now, when you solve a problem, you will be treated with the information i.e the other user have solve that problem or not.
+
+
+
+
 
 
 INSTALLATION STEPS (geeko) ex) Firefox
