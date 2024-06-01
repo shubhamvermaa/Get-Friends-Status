@@ -9,12 +9,13 @@ https://addons.mozilla.org/en-US/firefox/addon/codeforces-get-friends-status/
 ![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/c785681b-138e-495e-92c6-a421f7aa5f94)  ![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/c380860d-17b3-404b-896e-5d4762e28bd3)
 
 
-**Never Ask Yourself 'Didn't I Do This Already?' Again!**
-
+**Never Ask Yourself 'Didn't I Do This Already?' Again!**<br/>
 A lot of us have an alternate accounts on codeforces, but maintaining what problem have been solved on the alternate account is very hectic.
 Imagine spending half an hour to solve, only to know, it was already solved by you.
-So, this extension help to avoid that mistake.
-
+So, this extension help to avoid that mistake.<br/>
+<br/>
+**Another Usecase**<br/>
+Imagine knowing a user who writes easy to understand and clean code, so whenever you get stuck on a problem, you run to that user's approach and implementation only to find out that the question hasn't been solved yet by that user.<br/>
 
 
 **INSTALLATION STEPS USING ZIP FILE (chromimum) ex) Brave, Kiwi, Google Chrome, MS Edge...<br />**
