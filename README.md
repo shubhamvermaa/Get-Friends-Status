@@ -30,7 +30,7 @@ Step 6) Now, click on the Get friend's status extension logo on the menu bar, yo
 <br />
 Step 7) Fill the HandleName whose submission status you want to monitor and press submit.<br />
 Step 8) Refresh the page, the Status should be visible now.<br />
-Now, when you solve a problem, you will be treated with the information i.e the other user have solve that problem or not.<br />
+Now, when you solve a problem, you will be treated with the information i.e the other user have solved that problem or not.<br />
 
 <br />
 <br />
@@ -62,7 +62,7 @@ Step 12) Right Click the extension (In firefox the options comes up only when yo
 ![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/e150890d-4d4d-461c-b0e8-dc719808922a)
 <br />
 Step 13) Refresh the page, the Status should be visible now.<br />
-Now, when you solve a problem, you will be treated with the information i.e the other user have solve that problem or not.<br />
+Now, when you solve a problem, you will be treated with the information i.e the other user have solved that problem or not.<br />
 <br />
 <br />
 Special Thanks to **Dhanraj Chaurasia** for the help during the Extension building process.<br/>
