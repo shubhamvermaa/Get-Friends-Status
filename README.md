@@ -1,4 +1,5 @@
-Recent Bug Fixing is Done on : 1/June/2024, updated to version 1.1<br/>
+Recent Bug Fixed for Problems with parts, ex| E1, E2, C1, C2: 3/June/2024 updated to version 1.2<br/>
+Recent Bug Fixed : 1/June/2024, updated to version 1.1<br/>
 
 ![image](https://github.com/shubhamvermaa/Get-Friends-Status/assets/97392398/3063be00-9c95-4036-aa8f-e7eaee6b4bcf)<br/>
 **Download the Firefox addon and go to Step No.9 of geeko(FireFox) installation.**<br/>
