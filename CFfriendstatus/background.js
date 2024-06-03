@@ -14,8 +14,8 @@ chrome.storage.local.get(['userHandle'], function(result) {
 
         // Extract contestId and index from the URL
         const url = window.location.href;
-        const match1 = url.match(/problemset\/problem\/(\d+)\/([A-Z])/);
-        const match2 = url.match(/contest\/(\d+)\/problem\/([A-Z])/);
+        const match1 = url.match(/problemset\/problem\/(\d+)\/([A-Z]\d?)/);
+        const match2 = url.match(/contest\/(\d+)\/problem\/([A-Z]\d?)/);
         let contestId = null;
         let index = null;
         
